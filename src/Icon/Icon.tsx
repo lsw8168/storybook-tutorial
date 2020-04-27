@@ -12,6 +12,7 @@ export type IconProps = {
   color?: string;
   /** 아이콘 크기 */
   size?: string | number;
+  /** 스타일 커스터마이징 하고싶을 때 사용 */
   className?: string;
 };
 
